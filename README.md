@@ -24,3 +24,9 @@ After that, kindly install the dependencies and start the program.
 ```sh
 pip install -r requirements.txt
 ```
+
+## Run L.A.R.A.
+
+```sh
+python3 LARA0.py
+```
