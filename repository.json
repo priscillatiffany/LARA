@@ -1,0 +1,21 @@
+{
+    "api": "Application Programming Interface - a set of rules and protocols for building software applications",
+    "http": "Hypertext Transfer Protocol - a protocol used for transmitting data over the internet",
+    "html": "Hypertext Markup Language - the standard markup language for creating web pages",
+    "css": "Cascading Style Sheets - a style sheet language used for describing the presentation of a document written in HTML",
+    "javascript": "a programming language that allows you to add interactivity to web pages",
+    "python": "a high-level programming language known for its simplicity and readability",
+    "git": "a distributed version control system used for tracking changes in source code during software development",
+    "database": "a structured set of data stored and organized for easy access, retrieval, and management",
+    "api key": "a unique identifier that allows access to an API",
+    "url": "Uniform Resource Locator - a web address that specifies the location of a resource on the internet",
+    "server": "a computer or system that provides services to other computers or clients over a network",
+    "algorithm": "a step-by-step procedure or formula for solving a problem or accomplishing a task",
+    "encryption": "the process of converting information into a secure form to prevent unauthorized access",
+    "cloud computing": "the delivery of computing services over the internet, including storage, processing power, and applications",
+    "machine learning": "a subset of artificial intelligence that enables systems to learn and make predictions without explicit programming",
+    "virtual reality": "a computer-generated simulation of a three-dimensional environment that can be interacted with using special equipment",
+    "internet of things (iot)": "a network of interconnected physical devices that can communicate and exchange data over the internet",
+    "big data": "extremely large and complex data sets that require specialized processing and analysis techniques",
+    "cybersecurity": "the practice of protecting computer systems, networks, and data from digital attacks and unauthorized access"
+}
